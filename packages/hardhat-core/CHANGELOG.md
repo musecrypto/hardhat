@@ -1,5 +1,13 @@
 # hardhat
 
+## 2.6.9
+
+### Patch Changes
+
+- 99c17f43: Bump uuid package to remove a deprecation warning (thanks @yhuard!)
+- e087bd0b: Improve validation of private keys in the Hardhat config
+- 846f7856: Enable user configurable tsconfig path
+
 ## 2.6.8
 
 ### Patch Changes
